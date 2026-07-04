@@ -1,0 +1,33 @@
+.light{
+
+background:#F8FAFC;
+
+color:#111827;
+
+}
+
+.dark{
+
+background:#0F172A;
+
+color:white;
+
+}
+
+.dark .card{
+
+background:#1E293B;
+
+color:white;
+
+}
+
+.dark input{
+
+background:#334155;
+
+color:white;
+
+border-color:#475569;
+
+}
